@@ -1,0 +1,17 @@
+{
+  "name": "database-solutions",
+  "version": "1.0.0",
+  "description": "A comprehensive database repository for learning **MongoDB (NoSQL)** and **SQL (RDBMS)**.  \r Includes tutorials, best practices, and hands-on examples for CRUD, aggregation, indexing, transactions, security, replication, and database DevOps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.3",
+    "multer": "^2.0.2"
+  }
+}
